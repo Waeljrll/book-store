@@ -1,0 +1,17 @@
+{
+    "name": "eraasoft/book-store",
+    "license": "MIt",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "waeljr",
+            "email": "mohamedwael011@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
